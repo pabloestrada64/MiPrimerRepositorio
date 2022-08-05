@@ -1,11 +1,15 @@
-.titulo{
-    background: papayawhip;
+.titulo {
+  background: papayawhip;
 }
-.subtitulo{
-    background: blue;
-    color: black;
-    font-size: 20px;
+.subtitulo {
+  background: blue;
+  color: black;
+  font-size: 20px;
 }
-.fondo{
-    background:white;
+.fondo {
+  background: white;
 }
+h1 {
+  color: red;
+}
+
